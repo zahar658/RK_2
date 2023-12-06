@@ -33,7 +33,7 @@ a{
     border: 0;
 }
 
-.header_img_ferst{
+.header_img_first{
     width: 37px;
     height: 80px;
 }
@@ -43,7 +43,7 @@ a{
     height: 32px;
 }
 
-.header_img_thred{
+.header_img_thrid{
     width: 32px;
     height: 32px;
 }
@@ -157,11 +157,11 @@ a{
         margin-top: 10px;
         padding: 56px 224px 56px 210px;
     }
-    .header_img_ferst{
+    .header_img_first{
         width: 76px;
         height: 155px;
     }
-    .header_img_thred{
+    .header_img_thrid{
         width: 40px;
         height: 40px;
     }
