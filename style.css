@@ -123,6 +123,10 @@ a{
 }
 
 .main_link_bottom{
+    display: block;
+}
+
+.main_link_bottom_item{
     width: 280px;
     height: 48px;
     border-radius: 50px;
@@ -192,6 +196,20 @@ a{
         font-size: 18px;
         font-weight: 300;
         line-height: 24px; 
+        margin-top: 32px;
+        width: 613px;
+    }
+    .main_summ{
+        justify-content: flex-start;
+    }
+    .main_link_bottom{
+        display: flex;
+        margin-top: 32px;
+    }
+    .main_link_bottom_item{
+        margin: 0;
+        margin-right: 40px;
+        width: 203px;
     }
 
 }
